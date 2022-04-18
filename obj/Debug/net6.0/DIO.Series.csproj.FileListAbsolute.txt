@@ -1,0 +1,15 @@
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\CURSOS\DIO\Desafios\DIO_Series\bin\Debug\net6.0\DIO.Series.exe
+D:\CURSOS\DIO\Desafios\DIO_Series\bin\Debug\net6.0\DIO.Series.deps.json
+D:\CURSOS\DIO\Desafios\DIO_Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+D:\CURSOS\DIO\Desafios\DIO_Series\bin\Debug\net6.0\DIO.Series.dll
+D:\CURSOS\DIO\Desafios\DIO_Series\bin\Debug\net6.0\DIO.Series.pdb
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.dll
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\refint\DIO.Series.dll
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.pdb
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+D:\CURSOS\DIO\Desafios\DIO_Series\obj\Debug\net6.0\ref\DIO.Series.dll
