@@ -1,4 +1,4 @@
-#DIO.Series
+# Dio_Series
 
 ## App simples de cadastro de séries
 
@@ -16,4 +16,3 @@ Este algoritmo foi criado utilizando:
 * C#
 * .NET
 * Visual Studio Code.
-# Dio_Series
